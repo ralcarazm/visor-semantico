@@ -1,5 +1,7 @@
 # Visor Semántico
 
+![Visor Semántico](https://github.com/ralcarazm/visor-semantico/blob/main/visor-semantico.png)
+
 **Visor Semántico** es una aplicación web ligera para cargar ficheros RDF o datos tabulares equivalentes y generar un grafo visual interactivo. Está pensada para explorar relaciones entre entidades, obras, personas, organizaciones, lugares, conceptos y recursos externos como Wikidata o Wikimedia Commons.
 
 - **Autor:** Rubén Alcaraz Martínez
