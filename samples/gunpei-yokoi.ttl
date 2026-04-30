@@ -1,0 +1,244 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix marcrel: <http://id.loc.gov/vocabulary/relators/> .
+@prefix wd: <https://www.wikidata.org/entity/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q366261 a schema:Person ;
+    dcterms:title "Gunpei Yokoi"@en ;
+    dcterms:description "Ingeniero, inventor, diseñador y productor japonés de videojuegos, asociado a Nintendo y Koto Laboratory"@es ;
+    dcterms:identifier "Q366261" ;
+    # dcterms:relation wd:Q8093, wd:Q2633052, wd:Q215034, wd:Q186437, wd:Q164651, wd:Q1065792, wd:Q12397 ;
+    schema:name "Gunpei Yokoi"@en ;
+    schema:alternateName "Gumpei Yokoi"@en ;
+    schema:alternateName "横井 軍平"@ja ;
+    schema:description "Ingeniero, inventor, diseñador y productor japonés de videojuegos."@es ;
+    schema:birthDate "1941-09-10"^^xsd:date ;
+    schema:deathDate "1997-10-04"^^xsd:date ;
+    schema:gender schema:Male ;
+    schema:nationality wd:Q17 ;
+    schema:alumniOf wd:Q921088;
+    schema:award "Lifetime Achievement Award of the International Game Developers Association"@en ;
+    schema:jobTitle wd:Q18882335 ;
+    schema:jobTitle wd:Q2702296 ;
+    schema:jobTitle wd:Q205375 ;
+    schema:jobTitle wd:Q2310380 ;
+    schema:worksFor wd:Q8093 ;
+    schema:worksFor wd:Q2633052 ;
+    schema:worksFor _:kotoLaboratory ;
+    schema:image <https://upload.wikimedia.org/wikipedia/en/3/36/Gunpei_Yokoi.jpg> ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q366261> .
+
+wd:Q8093 a schema:Organization ;
+    dcterms:title "Nintendo"@en ;
+    dcterms:description "Empresa japonesa de videojuegos y electrónica de consumo."@es ;
+    dcterms:identifier "Q8093" ;
+    schema:name "Nintendo"@en ;
+    schema:alternateName "Nintendo Co., Ltd."@en ;
+    schema:foundingDate "1889-09-23"^^xsd:date ;
+    schema:employee wd:Q366261 ;
+    schema:employee wd:Q529990 ;
+    schema:employee wd:Q6739919 ;
+    schema:employee wd:Q3514291 ;
+    schema:employee wd:Q3098670 ;
+    schema:employee wd:Q3136254 ;
+    schema:employee wd:Q11530025 ;
+    schema:location wd:Q17 ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q8093> ;
+    schema:url <https://www.nintendo.com/> .
+
+wd:Q2633052 a schema:Organization ;
+    dcterms:title "Nintendo Research & Development 1"@en ;
+    dcterms:alternative "Nintendo R&D1"@en ;
+    dcterms:description "Fue el primer y más antiguo equipo de desarrollo de Nintendo, creado cuando la empresa se introdujo en el mundo del videojuego a mediados de los años 70. Su director hasta su marcha fue Gunpei Yokoi."@es ;
+    dcterms:identifier "Q2633052" ;
+    schema:name "Nintendo Research & Development 1"@en ;
+    schema:alternateName "Nintendo R&D1"@en ;
+    schema:alternateName "Nintendo Research & Development Department"@en ;
+    schema:alternateName "Nintendō Kaihatsu Daiichi"@ja-Latn ;
+    schema:parentOrganization wd:Q8093 ;
+    schema:employee wd:Q366261 ;
+    schema:employee wd:Q529990 ;
+    schema:employee wd:Q6739919 ;
+    schema:employee wd:Q3514291 ;
+    schema:employee wd:Q3098670 ;
+    schema:employee wd:Q3136254 ;
+    schema:employee wd:Q11530025 ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q2633052> .
+
+_:kotoLaboratory a schema:Organization ;
+    dcterms:title "Koto Laboratory"@en ;
+    dcterms:description "Empresa fundada por Gunpei Yokoi tras su salida de Nintendo."@es ;
+    schema:name "Koto Laboratory"@en ;
+    schema:alternateName "Koto Co. Ltd"@en ;
+    schema:founder wd:Q366261 ;
+    schema:foundingDate "1996"^^xsd:gYear .
+
+wd:Q215034 a schema:Product ;
+    dcterms:title "Game & Watch"@en ;
+    dcterms:description "Serie de juegos electrónicos portátiles de Nintendo diseñada bajo la dirección de Gunpei Yokoi."@es ;
+    dcterms:creator wd:Q366261 ;
+    dcterms:publisher wd:Q8093 ;
+    dcterms:identifier "Q215034" ;
+    dcterms:type wd:Q941818 ;
+    schema:name "Game & Watch"@en ;
+    schema:designer wd:Q366261 ;
+    schema:manufacturer wd:Q8093 ;
+    schema:brand wd:Q8093 ;
+    schema:category wd:Q941818 ;
+    schema:releaseDate "1980"^^xsd:gYear ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q215034> .
+
+wd:Q186437 a schema:Product ;
+    dcterms:title "Game Boy"@en ;
+    dcterms:description "Consola portátil de Nintendo lanzada en 1989."@es ;
+    dcterms:creator wd:Q366261 ;
+    dcterms:publisher wd:Q8093 ;
+    dcterms:identifier "Q186437" ;
+    dcterms:type wd:Q941818 ;
+    schema:name "Game Boy"@en ;
+    schema:alternateName "Nintendo Game Boy"@en ;
+    schema:description "Consola portátil de Nintendo lanzada en 1989."@es ;
+    schema:designer wd:Q366261 ;
+    schema:manufacturer wd:Q8093 ;
+    schema:brand wd:Q8093 ;
+    schema:category wd:Q941818 ;
+    schema:releaseDate "1989-04-21"^^xsd:date ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q186437> .
+
+wd:Q164651 a schema:Product ;
+    dcterms:title "Virtual Boy"@en ;
+    dcterms:description "Consola de videojuegos de Nintendo desarrollada por Nintendo Research & Development 1."@es ;
+    dcterms:creator wd:Q2633052 ;
+    dcterms:creator wd:Q366261 ;
+    dcterms:publisher wd:Q8093 ;
+    dcterms:identifier "Q164651" ;
+    schema:name "Virtual Boy"@en ;
+    schema:designer wd:Q366261 ;
+    schema:manufacturer wd:Q8093 ;
+    schema:brand wd:Q8093 ;
+    schema:category "consola de videojuegos"@es ;
+    schema:releaseDate "1995-07-21"^^xsd:date ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q164651> .
+
+wd:Q1065792 a schema:Product ;
+    dcterms:title "WonderSwan"@en ;
+    dcterms:description "Consola portátil de Bandai diseñada por Koto Laboratory bajo la dirección de de Gunpei Yokoi."@es ;
+    dcterms:creator _:kotoLaboratory ;
+    dcterms:creator wd:Q366261 ;
+    dcterms:publisher wd:Q507269 ;
+    dcterms:identifier "Q1065792" ;
+    dcterms:type wd:Q941818 ;
+    schema:name "WonderSwan"@en ;
+    schema:designer wd:Q366261 ;
+    schema:manufacturer wd:Q507269 ;
+    schema:brand wd:Q507269 ;
+    schema:category wd:Q941818 ;
+    schema:releaseDate "1999-03-04"^^xsd:date ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q1065792> .
+
+wd:Q507269 a schema:Organization ;
+    dcterms:title "Bandai"@en ;
+    dcterms:description "Empresa japonesa de juguetes, videojuegos y entretenimiento."@es ;
+    dcterms:identifier "Q507269" ;
+    schema:name "Bandai"@en ;
+    schema:location wd:Q17 ;
+    schema:image <https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bandai_head_office_building_Asakusa_20170519.jpg/960px-Bandai_head_office_building_Asakusa_20170519.jpg> ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q507269> .
+
+wd:Q12397 a schema:VideoGameSeries ;
+    dcterms:title "Metroid"@en ;
+    dcterms:description "Serie de videojuegos de acción y aventura publicada por Nintendo. Gunpei Yokoi participó como una de las figuras clave de sus primeros desarrollos."@es ;
+    dcterms:contributor wd:Q366261 ;
+    dcterms:publisher wd:Q8093 ;
+    dcterms:identifier "Q12397" ;
+    schema:name "Metroid"@en ;
+    schema:producer wd:Q366261 ;
+    schema:genre wd:Q343568 ;
+    schema:genre wd:Q19643088 ;
+    schema:character wd:Q12400 ;
+    schema:datePublished "1986-08-06"^^xsd:date ;
+    schema:image <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Metroid_Logo_2017.svg/1920px-Metroid_Logo_2017.svg.png> ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q12397> .
+
+wd:Q12400 a schema:Person ;
+    dcterms:title "Samus Aran"@es ;
+    dcterms:description "Personaje ficticio de la serie de videojuegos Metroid, protagonista principal de la saga."@es ;
+    dcterms:identifier "Q12400" ;
+    dcterms:isPartOf wd:Q12397 ;
+    dcterms:creator wd:Q3280923 ;
+    dcterms:contributor wd:Q3136254 ;
+    marcrel:cre wd:Q3280923 ;
+    marcrel:dsr wd:Q3136254 ;
+    schema:name "Samus Aran"@en ;
+    schema:alternateName "サムス・アラン"@ja ;
+    schema:alternateName "Samusu Aran"@ja-Latn ;
+    schema:alternateName "La Cazadora"@es ;
+    schema:worksFor "Federación Galáctica"@es ;
+    schema:jobTitle wd:Q621613 ;
+    schema:gender schema:Female ;
+    schema:image <https://upload.wikimedia.org/wikipedia/en/d/d6/Samus_Aran.png> ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q12400> .
+
+wd:Q3280923 a schema:Person ;
+    dcterms:title "Makoto Kano"@en ;
+    dcterms:description "Diseñador japonés de videojuegos asociado a la creación de Samus Aran."@es ;
+    dcterms:identifier "Q3280923" ;
+    schema:name "Makoto Kano"@en ;
+    schema:alternateName "Makoto Kanoh"@en ;
+    schema:alternateName "加納 誠"@ja ;
+    schema:nationality wd:Q17 ;
+    schema:gender schema:Male ;
+    schema:jobTitle wd:Q18882335 ;
+    schema:worksFor wd:Q8093 ;
+    schema:image <https://static.wikia.nocookie.net/metroid/images/6/65/Makoto_Kano.jpg/revision/latest?cb=20150916155601&path-prefix=es> ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q3280923> .
+
+wd:Q3136254 a schema:Person ;
+    dcterms:title "Hiroji Kiyotake"@en ;
+    dcterms:description "Diseñador japonés de videojuegos. Diseñador del personaje Samus Aran."@es ;
+    dcterms:identifier "Q3136254" ;
+    schema:name "Hiroji Kiyotake"@en ;
+    schema:alternateName "清武 博二"@ja ;
+    schema:nationality wd:Q17 ;
+    schema:gender schema:Male ;
+    schema:jobTitle wd:Q18882335 ;
+    schema:worksFor wd:Q8093 ;
+    schema:worksFor wd:Q2633052 ;
+    schema:image <https://static.wikia.nocookie.net/metroid/images/b/bb/Hiroji_Kiyotake.jpg/revision/latest?cb=20170816133758&path-prefix=es> ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q3136254> .
+
+wd:Q3098670 a schema:Person ;
+    dcterms:title "Yoshio Sakamoto"@en ;
+    dcterms:description "Diseñador, productor y guionista japonés de videojuegos, figura clave en el desarrollo de Metroid."@es ;
+    dcterms:identifier "Q3098670" ;
+    schema:name "Yoshio Sakamoto"@en ;
+    schema:alternateName "坂本 賀勇"@ja ;
+    schema:nationality wd:Q17 ;
+    schema:gender schema:Male ;
+    schema:jobTitle wd:Q18882335 ;
+    schema:jobTitle wd:Q2702296 ;
+    schema:worksFor wd:Q8093 ;
+    schema:worksFor wd:Q2633052 ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q3098670> .
+
+wd:Q17 a schema:Country ;
+    dcterms:title "Japón"@es ;
+    schema:name "Japón"@es ;
+    schema:name "Japan"@en ;
+    schema:alternateName "日本"@ja ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q17> .
+
+wd:Q941818 a schema:DefinedTerm ;
+    dcterms:title "Consola portátil"@es ;
+    schema:name "Consola portátil"@es ;
+    schema:name "Handheld game console"@en ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q941818> .
+
+wd:Q621613 a schema:DefinedTerm ;
+    dcterms:title "Bounty hunter"@en ;
+    dcterms:title "Cazarrecompensas"@es ;
+    schema:name "Bounty hunter"@en ;
+    schema:name "Cazarrecompensas"@es ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q621613> .

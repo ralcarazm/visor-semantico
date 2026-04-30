@@ -1,0 +1,782 @@
+{
+  "@context": {
+    "cc": "http://creativecommons.org/ns#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "marcrel": "http://id.loc.gov/vocabulary/relators/",
+    "schema": "https://schema.org/",
+    "wd": "https://www.wikidata.org/entity/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "wd:Q366261",
+      "@type": "schema:Person",
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Ingeniero, inventor, diseñador y productor japonés de videojuegos, asociado a Nintendo y Koto Laboratory"
+      },
+      "dcterms:identifier": "Q366261",
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Gunpei Yokoi"
+      },
+      "schema:alternateName": [
+        {
+          "@language": "en",
+          "@value": "Gumpei Yokoi"
+        },
+        {
+          "@language": "ja",
+          "@value": "横井 軍平"
+        }
+      ],
+      "schema:alumniOf": {
+        "@id": "wd:Q921088"
+      },
+      "schema:award": {
+        "@language": "en",
+        "@value": "Lifetime Achievement Award of the International Game Developers Association"
+      },
+      "schema:birthDate": {
+        "@type": "xsd:date",
+        "@value": "1941-09-10"
+      },
+      "schema:deathDate": {
+        "@type": "xsd:date",
+        "@value": "1997-10-04"
+      },
+      "schema:description": {
+        "@language": "es",
+        "@value": "Ingeniero, inventor, diseñador y productor japonés de videojuegos."
+      },
+      "schema:gender": {
+        "@id": "schema:Male"
+      },
+      "schema:image": {
+        "@id": "https://upload.wikimedia.org/wikipedia/en/3/36/Gunpei_Yokoi.jpg"
+      },
+      "schema:jobTitle": [
+        {
+          "@id": "wd:Q18882335"
+        },
+        {
+          "@id": "wd:Q2702296"
+        },
+        {
+          "@id": "wd:Q205375"
+        },
+        {
+          "@id": "wd:Q2310380"
+        }
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Gunpei Yokoi"
+      },
+      "schema:nationality": {
+        "@id": "wd:Q17"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q366261"
+      },
+      "schema:worksFor": [
+        {
+          "@id": "wd:Q8093"
+        },
+        {
+          "@id": "wd:Q2633052"
+        },
+        {
+          "@id": "_:n14043ca7e308434399795cae456314b2b1"
+        }
+      ]
+    },
+    {
+      "@id": "_:n14043ca7e308434399795cae456314b2b1",
+      "@type": "schema:Organization",
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Empresa fundada por Gunpei Yokoi tras su salida de Nintendo."
+      },
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Koto Laboratory"
+      },
+      "schema:alternateName": {
+        "@language": "en",
+        "@value": "Koto Co. Ltd"
+      },
+      "schema:founder": {
+        "@id": "wd:Q366261"
+      },
+      "schema:foundingDate": {
+        "@type": "xsd:gYear",
+        "@value": "1996"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Koto Laboratory"
+      }
+    },
+    {
+      "@id": "wd:Q12400",
+      "@type": "schema:Person",
+      "dcterms:contributor": {
+        "@id": "wd:Q3136254"
+      },
+      "dcterms:creator": {
+        "@id": "wd:Q3280923"
+      },
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Personaje ficticio de la serie de videojuegos Metroid, protagonista principal de la saga."
+      },
+      "dcterms:identifier": "Q12400",
+      "dcterms:isPartOf": {
+        "@id": "wd:Q12397"
+      },
+      "dcterms:title": {
+        "@language": "es",
+        "@value": "Samus Aran"
+      },
+      "marcrel:cre": {
+        "@id": "wd:Q3280923"
+      },
+      "marcrel:dsr": {
+        "@id": "wd:Q3136254"
+      },
+      "schema:alternateName": [
+        {
+          "@language": "ja",
+          "@value": "サムス・アラン"
+        },
+        {
+          "@language": "ja-Latn",
+          "@value": "Samusu Aran"
+        },
+        {
+          "@language": "es",
+          "@value": "La Cazadora"
+        }
+      ],
+      "schema:gender": {
+        "@id": "schema:Female"
+      },
+      "schema:image": {
+        "@id": "https://upload.wikimedia.org/wikipedia/en/d/d6/Samus_Aran.png"
+      },
+      "schema:jobTitle": {
+        "@id": "wd:Q621613"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Samus Aran"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q12400"
+      },
+      "schema:worksFor": {
+        "@language": "es",
+        "@value": "Federación Galáctica"
+      }
+    },
+    {
+      "@id": "wd:Q164651",
+      "@type": "schema:Product",
+      "dcterms:creator": [
+        {
+          "@id": "wd:Q2633052"
+        },
+        {
+          "@id": "wd:Q366261"
+        }
+      ],
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Consola de videojuegos de Nintendo desarrollada por Nintendo Research & Development 1."
+      },
+      "dcterms:identifier": "Q164651",
+      "dcterms:publisher": {
+        "@id": "wd:Q8093"
+      },
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Virtual Boy"
+      },
+      "schema:brand": {
+        "@id": "wd:Q8093"
+      },
+      "schema:category": {
+        "@language": "es",
+        "@value": "consola de videojuegos"
+      },
+      "schema:designer": {
+        "@id": "wd:Q366261"
+      },
+      "schema:manufacturer": {
+        "@id": "wd:Q8093"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Virtual Boy"
+      },
+      "schema:releaseDate": {
+        "@type": "xsd:date",
+        "@value": "1995-07-21"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q164651"
+      }
+    },
+    {
+      "@id": "wd:Q12397",
+      "@type": "schema:VideoGameSeries",
+      "dcterms:contributor": {
+        "@id": "wd:Q366261"
+      },
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Serie de videojuegos de acción y aventura publicada por Nintendo. Gunpei Yokoi participó como una de las figuras clave de sus primeros desarrollos."
+      },
+      "dcterms:identifier": "Q12397",
+      "dcterms:publisher": {
+        "@id": "wd:Q8093"
+      },
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Metroid"
+      },
+      "schema:character": {
+        "@id": "wd:Q12400"
+      },
+      "schema:datePublished": {
+        "@type": "xsd:date",
+        "@value": "1986-08-06"
+      },
+      "schema:genre": [
+        {
+          "@id": "wd:Q343568"
+        },
+        {
+          "@id": "wd:Q19643088"
+        }
+      ],
+      "schema:image": {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Metroid_Logo_2017.svg/1920px-Metroid_Logo_2017.svg.png"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Metroid"
+      },
+      "schema:producer": {
+        "@id": "wd:Q366261"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q12397"
+      }
+    },
+    {
+      "@id": "wd:Q507269",
+      "@type": "schema:Organization",
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Empresa japonesa de juguetes, videojuegos y entretenimiento."
+      },
+      "dcterms:identifier": "Q507269",
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Bandai"
+      },
+      "schema:image": {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bandai_head_office_building_Asakusa_20170519.jpg/960px-Bandai_head_office_building_Asakusa_20170519.jpg"
+      },
+      "schema:location": {
+        "@id": "wd:Q17"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Bandai"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q507269"
+      }
+    },
+    {
+      "@id": "wd:Q941818",
+      "@type": "schema:DefinedTerm",
+      "dcterms:title": {
+        "@language": "es",
+        "@value": "Consola portátil"
+      },
+      "schema:name": [
+        {
+          "@language": "es",
+          "@value": "Consola portátil"
+        },
+        {
+          "@language": "en",
+          "@value": "Handheld game console"
+        }
+      ],
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q941818"
+      }
+    },
+    {
+      "@id": "wd:Q1065792",
+      "@type": "schema:Product",
+      "dcterms:creator": [
+        {
+          "@id": "_:n14043ca7e308434399795cae456314b2b1"
+        },
+        {
+          "@id": "wd:Q366261"
+        }
+      ],
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Consola portátil de Bandai diseñada por Koto Laboratory bajo la dirección de de Gunpei Yokoi."
+      },
+      "dcterms:identifier": "Q1065792",
+      "dcterms:publisher": {
+        "@id": "wd:Q507269"
+      },
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "WonderSwan"
+      },
+      "dcterms:type": {
+        "@id": "wd:Q941818"
+      },
+      "schema:brand": {
+        "@id": "wd:Q507269"
+      },
+      "schema:category": {
+        "@id": "wd:Q941818"
+      },
+      "schema:designer": {
+        "@id": "wd:Q366261"
+      },
+      "schema:manufacturer": {
+        "@id": "wd:Q507269"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "WonderSwan"
+      },
+      "schema:releaseDate": {
+        "@type": "xsd:date",
+        "@value": "1999-03-04"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q1065792"
+      }
+    },
+    {
+      "@id": "wd:Q3280923",
+      "@type": "schema:Person",
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Diseñador japonés de videojuegos asociado a la creación de Samus Aran."
+      },
+      "dcterms:identifier": "Q3280923",
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Makoto Kano"
+      },
+      "schema:alternateName": [
+        {
+          "@language": "en",
+          "@value": "Makoto Kanoh"
+        },
+        {
+          "@language": "ja",
+          "@value": "加納 誠"
+        }
+      ],
+      "schema:gender": {
+        "@id": "schema:Male"
+      },
+      "schema:image": {
+        "@id": "https://static.wikia.nocookie.net/metroid/images/6/65/Makoto_Kano.jpg/revision/latest?cb=20150916155601&path-prefix=es"
+      },
+      "schema:jobTitle": {
+        "@id": "wd:Q18882335"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Makoto Kano"
+      },
+      "schema:nationality": {
+        "@id": "wd:Q17"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q3280923"
+      },
+      "schema:worksFor": {
+        "@id": "wd:Q8093"
+      }
+    },
+    {
+      "@id": "wd:Q8093",
+      "@type": "schema:Organization",
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Empresa japonesa de videojuegos y electrónica de consumo."
+      },
+      "dcterms:identifier": "Q8093",
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Nintendo"
+      },
+      "schema:alternateName": {
+        "@language": "en",
+        "@value": "Nintendo Co., Ltd."
+      },
+      "schema:employee": [
+        {
+          "@id": "wd:Q366261"
+        },
+        {
+          "@id": "wd:Q529990"
+        },
+        {
+          "@id": "wd:Q6739919"
+        },
+        {
+          "@id": "wd:Q3514291"
+        },
+        {
+          "@id": "wd:Q3098670"
+        },
+        {
+          "@id": "wd:Q3136254"
+        },
+        {
+          "@id": "wd:Q11530025"
+        }
+      ],
+      "schema:foundingDate": {
+        "@type": "xsd:date",
+        "@value": "1889-09-23"
+      },
+      "schema:location": {
+        "@id": "wd:Q17"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Nintendo"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q8093"
+      },
+      "schema:url": {
+        "@id": "https://www.nintendo.com/"
+      }
+    },
+    {
+      "@id": "wd:Q3098670",
+      "@type": "schema:Person",
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Diseñador, productor y guionista japonés de videojuegos, figura clave en el desarrollo de Metroid."
+      },
+      "dcterms:identifier": "Q3098670",
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Yoshio Sakamoto"
+      },
+      "schema:alternateName": {
+        "@language": "ja",
+        "@value": "坂本 賀勇"
+      },
+      "schema:gender": {
+        "@id": "schema:Male"
+      },
+      "schema:jobTitle": [
+        {
+          "@id": "wd:Q18882335"
+        },
+        {
+          "@id": "wd:Q2702296"
+        }
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Yoshio Sakamoto"
+      },
+      "schema:nationality": {
+        "@id": "wd:Q17"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q3098670"
+      },
+      "schema:worksFor": [
+        {
+          "@id": "wd:Q8093"
+        },
+        {
+          "@id": "wd:Q2633052"
+        }
+      ]
+    },
+    {
+      "@id": "wd:Q3136254",
+      "@type": "schema:Person",
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Diseñador japonés de videojuegos. Diseñador del personaje Samus Aran."
+      },
+      "dcterms:identifier": "Q3136254",
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Hiroji Kiyotake"
+      },
+      "schema:alternateName": {
+        "@language": "ja",
+        "@value": "清武 博二"
+      },
+      "schema:gender": {
+        "@id": "schema:Male"
+      },
+      "schema:image": {
+        "@id": "https://static.wikia.nocookie.net/metroid/images/b/bb/Hiroji_Kiyotake.jpg/revision/latest?cb=20170816133758&path-prefix=es"
+      },
+      "schema:jobTitle": {
+        "@id": "wd:Q18882335"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Hiroji Kiyotake"
+      },
+      "schema:nationality": {
+        "@id": "wd:Q17"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q3136254"
+      },
+      "schema:worksFor": [
+        {
+          "@id": "wd:Q8093"
+        },
+        {
+          "@id": "wd:Q2633052"
+        }
+      ]
+    },
+    {
+      "@id": "wd:Q17",
+      "@type": "schema:Country",
+      "dcterms:title": {
+        "@language": "es",
+        "@value": "Japón"
+      },
+      "schema:alternateName": {
+        "@language": "ja",
+        "@value": "日本"
+      },
+      "schema:name": [
+        {
+          "@language": "es",
+          "@value": "Japón"
+        },
+        {
+          "@language": "en",
+          "@value": "Japan"
+        }
+      ],
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q17"
+      }
+    },
+    {
+      "@id": "wd:Q621613",
+      "@type": "schema:DefinedTerm",
+      "dcterms:title": [
+        {
+          "@language": "en",
+          "@value": "Bounty hunter"
+        },
+        {
+          "@language": "es",
+          "@value": "Cazarrecompensas"
+        }
+      ],
+      "schema:name": [
+        {
+          "@language": "en",
+          "@value": "Bounty hunter"
+        },
+        {
+          "@language": "es",
+          "@value": "Cazarrecompensas"
+        }
+      ],
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q621613"
+      }
+    },
+    {
+      "@id": "wd:Q2633052",
+      "@type": "schema:Organization",
+      "dcterms:alternative": {
+        "@language": "en",
+        "@value": "Nintendo R&D1"
+      },
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Fue el primer y más antiguo equipo de desarrollo de Nintendo, creado cuando la empresa se introdujo en el mundo del videojuego a mediados de los años 70. Su director hasta su marcha fue Gunpei Yokoi."
+      },
+      "dcterms:identifier": "Q2633052",
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Nintendo Research & Development 1"
+      },
+      "schema:alternateName": [
+        {
+          "@language": "en",
+          "@value": "Nintendo R&D1"
+        },
+        {
+          "@language": "en",
+          "@value": "Nintendo Research & Development Department"
+        },
+        {
+          "@language": "ja-Latn",
+          "@value": "Nintendō Kaihatsu Daiichi"
+        }
+      ],
+      "schema:employee": [
+        {
+          "@id": "wd:Q366261"
+        },
+        {
+          "@id": "wd:Q529990"
+        },
+        {
+          "@id": "wd:Q6739919"
+        },
+        {
+          "@id": "wd:Q3514291"
+        },
+        {
+          "@id": "wd:Q3098670"
+        },
+        {
+          "@id": "wd:Q3136254"
+        },
+        {
+          "@id": "wd:Q11530025"
+        }
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Nintendo Research & Development 1"
+      },
+      "schema:parentOrganization": {
+        "@id": "wd:Q8093"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q2633052"
+      }
+    },
+    {
+      "@id": "wd:Q186437",
+      "@type": "schema:Product",
+      "dcterms:creator": {
+        "@id": "wd:Q366261"
+      },
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Consola portátil de Nintendo lanzada en 1989."
+      },
+      "dcterms:identifier": "Q186437",
+      "dcterms:publisher": {
+        "@id": "wd:Q8093"
+      },
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Game Boy"
+      },
+      "dcterms:type": {
+        "@id": "wd:Q941818"
+      },
+      "schema:alternateName": {
+        "@language": "en",
+        "@value": "Nintendo Game Boy"
+      },
+      "schema:brand": {
+        "@id": "wd:Q8093"
+      },
+      "schema:category": {
+        "@id": "wd:Q941818"
+      },
+      "schema:description": {
+        "@language": "es",
+        "@value": "Consola portátil de Nintendo lanzada en 1989."
+      },
+      "schema:designer": {
+        "@id": "wd:Q366261"
+      },
+      "schema:manufacturer": {
+        "@id": "wd:Q8093"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Game Boy"
+      },
+      "schema:releaseDate": {
+        "@type": "xsd:date",
+        "@value": "1989-04-21"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q186437"
+      }
+    },
+    {
+      "@id": "wd:Q215034",
+      "@type": "schema:Product",
+      "dcterms:creator": {
+        "@id": "wd:Q366261"
+      },
+      "dcterms:description": {
+        "@language": "es",
+        "@value": "Serie de juegos electrónicos portátiles de Nintendo diseñada bajo la dirección de Gunpei Yokoi."
+      },
+      "dcterms:identifier": "Q215034",
+      "dcterms:publisher": {
+        "@id": "wd:Q8093"
+      },
+      "dcterms:title": {
+        "@language": "en",
+        "@value": "Game & Watch"
+      },
+      "dcterms:type": {
+        "@id": "wd:Q941818"
+      },
+      "schema:brand": {
+        "@id": "wd:Q8093"
+      },
+      "schema:category": {
+        "@id": "wd:Q941818"
+      },
+      "schema:designer": {
+        "@id": "wd:Q366261"
+      },
+      "schema:manufacturer": {
+        "@id": "wd:Q8093"
+      },
+      "schema:name": {
+        "@language": "en",
+        "@value": "Game & Watch"
+      },
+      "schema:releaseDate": {
+        "@type": "xsd:gYear",
+        "@value": "1980"
+      },
+      "schema:sameAs": {
+        "@id": "https://www.wikidata.org/wiki/Q215034"
+      }
+    }
+  ]
+}

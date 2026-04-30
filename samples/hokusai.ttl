@@ -1,0 +1,71 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix wd: <https://www.wikidata.org/entity/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q252485 a schema:VisualArtwork ;
+    dcterms:title "The Great Wave off Kanagawa"@en ;
+    dcterms:title "Under the Wave off Kanagawa"@en ;
+    dcterms:title "La gran ola de Kanagawa"@es ;
+    dcterms:alternative "Kanagawa oki nami ura"@ja-Latn ;
+    dcterms:alternative "神奈川沖浪裏"@ja ;
+    dcterms:creator wd:Q5586 ;
+    dcterms:description "Colour woodblock print designed by Katsushika Hokusai, from the series Thirty-six Views of Mount Fuji."@en ;
+    dcterms:created "1831"^^xsd:gYear ;
+    dcterms:date "ca. 1830-1832" ;
+    dcterms:type schema:VisualArtwork ;
+    dcterms:subject wd:Q39231 ;
+    dcterms:isPartOf wd:Q227494 ;
+    dcterms:rights "Public domain"@en ;
+    schema:genre wd:Q185905 ;
+    schema:locationCreated wd:Q17 ;
+    schema:artMedium "Colour woodblock print. Ink and colour on paper"@en ;
+    schema:artworkSurface wd:Q11472 ;
+    schema:dateCreated "1831"^^xsd:gYear ;
+    schema:height "25.7 cm" ;
+    schema:width "37.7 cm" ;
+    schema:identifier "Q252485" ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q252485> ;
+    cc:license <https://creativecommons.org/publicdomain/mark/1.0/> .
+
+<https://creativecommons.org/publicdomain/mark/1.0/> a cc:License ;
+    dcterms:title "Public Domain Mark 1.0"@en ;
+    dcterms:title "Marca de Dominio Público 1.0"@es ;
+    schema:sameAs <https://creativecommons.org/publicdomain/mark/1.0/> .
+
+wd:Q5586 a schema:Person ;
+    dcterms:title "Katsushika Hokusai"@en ;
+    schema:name "Katsushika Hokusai"@en ;
+    schema:alternateName "葛飾 北斎"@ja ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q5586> .
+
+wd:Q39231 a schema:Place ;
+    dcterms:title "Mount Fuji"@en ;
+    schema:name "Mount Fuji"@en ;
+    schema:alternateName "富士山"@ja ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q39231> .
+
+wd:Q185905 a schema:CreativeWork ;
+    dcterms:title "ukiyo-e"@en ;
+    schema:name "ukiyo-e"@en ;
+    schema:description "Japanese art genre, especially associated with woodblock prints and paintings."@en ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q185905> .
+
+wd:Q17 a schema:Place ;
+    dcterms:title "Japan"@en ;
+    schema:name "Japan"@en ;
+    schema:alternateName "日本"@ja ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q17> .
+
+wd:Q227494 a schema:CreativeWorkSeries ;
+    dcterms:title "Thirty-six Views of Mount Fuji"@en ;
+    dcterms:title "Treinta y seis vistas del monte Fuji"@es ;
+    dcterms:alternative "Fugaku sanjūrokkei"@ja-Latn ;
+    dcterms:alternative "富嶽三十六景"@ja ;
+    dcterms:creator wd:Q5586 ;
+    dcterms:subject wd:Q39231 ;
+    dcterms:type schema:CreativeWorkSeries ;
+    schema:genre wd:Q185905 ;
+    schema:hasPart wd:Q252485 ;
+    schema:sameAs <https://www.wikidata.org/wiki/Q227494> .

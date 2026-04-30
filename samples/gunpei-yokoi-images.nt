@@ -1,0 +1,220 @@
+<https://www.wikidata.org/entity/Q12397> <http://purl.org/dc/terms/identifier> "Q12397" .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/worksFor> "Federación Galáctica"@es .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/image> <https://static.wikia.nocookie.net/metroid/images/6/65/Makoto_Kano.jpg/revision/latest?cb=20150916155601&path-prefix=es> .
+<https://www.wikidata.org/entity/Q186437> <http://purl.org/dc/terms/description> "Consola portátil de Nintendo lanzada en 1989."@es .
+<https://www.wikidata.org/entity/Q1065792> <https://schema.org/name> "WonderSwan"@en .
+<https://www.wikidata.org/entity/Q621613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/DefinedTerm> .
+<https://www.wikidata.org/entity/Q507269> <http://purl.org/dc/terms/title> "Bandai"@en .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/worksFor> _:n14043ca7e308434399795cae456314b2b1 .
+<https://www.wikidata.org/entity/Q507269> <http://purl.org/dc/terms/identifier> "Q507269" .
+<https://www.wikidata.org/entity/Q1065792> <http://purl.org/dc/terms/description> "Consola portátil de Bandai diseñada por Koto Laboratory bajo la dirección de de Gunpei Yokoi."@es .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/alternateName> "Nintendo Research & Development Department"@en .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/designer> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q621613> <http://purl.org/dc/terms/title> "Bounty hunter"@en .
+<https://www.wikidata.org/entity/Q186437> <http://purl.org/dc/terms/creator> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q2702296> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q18882335> .
+_:n14043ca7e308434399795cae456314b2b1 <https://schema.org/alternateName> "Koto Co. Ltd"@en .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/name> "Nintendo"@en .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/employee> <https://www.wikidata.org/entity/Q3098670> .
+<https://www.wikidata.org/entity/Q3098670> <http://purl.org/dc/terms/description> "Diseñador, productor y guionista japonés de videojuegos, figura clave en el desarrollo de Metroid."@es .
+<https://www.wikidata.org/entity/Q12397> <http://purl.org/dc/terms/publisher> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/employee> <https://www.wikidata.org/entity/Q11530025> .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q3098670> .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/category> <https://www.wikidata.org/entity/Q941818> .
+<https://www.wikidata.org/entity/Q164651> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q164651> .
+<https://www.wikidata.org/entity/Q215034> <http://purl.org/dc/terms/publisher> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/employee> <https://www.wikidata.org/entity/Q3514291> .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/image> <https://static.wikia.nocookie.net/metroid/images/b/bb/Hiroji_Kiyotake.jpg/revision/latest?cb=20170816133758&path-prefix=es> .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q2702296> .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q18882335> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/description> "Ingeniero, inventor, diseñador y productor japonés de videojuegos."@es .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/deathDate> "1997-10-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://www.wikidata.org/entity/Q215034> <http://purl.org/dc/terms/type> <https://www.wikidata.org/entity/Q941818> .
+<https://www.wikidata.org/entity/Q164651> <http://purl.org/dc/terms/identifier> "Q164651" .
+<https://www.wikidata.org/entity/Q164651> <http://purl.org/dc/terms/description> "Consola de videojuegos de Nintendo desarrollada por Nintendo Research & Development 1."@es .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/alternateName> "加納 誠"@ja .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/location> <https://www.wikidata.org/entity/Q17> .
+<https://www.wikidata.org/entity/Q215034> <http://purl.org/dc/terms/title> "Game & Watch"@en .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q8093> .
+<https://www.wikidata.org/entity/Q1065792> <http://purl.org/dc/terms/creator> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q1065792> <http://purl.org/dc/terms/creator> _:n14043ca7e308434399795cae456314b2b1 .
+<https://www.wikidata.org/entity/Q2633052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://www.wikidata.org/entity/Q1065792> <https://schema.org/designer> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/alternateName> "Nintendo Co., Ltd."@en .
+<https://www.wikidata.org/entity/Q17> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q17> .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/employee> <https://www.wikidata.org/entity/Q3098670> .
+<https://www.wikidata.org/entity/Q366261> <http://purl.org/dc/terms/identifier> "Q366261" .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/employee> <https://www.wikidata.org/entity/Q11530025> .
+<https://www.wikidata.org/entity/Q3136254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://www.wikidata.org/entity/Q164651> <https://schema.org/name> "Virtual Boy"@en .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/name> "Makoto Kano"@en .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/employee> <https://www.wikidata.org/entity/Q3514291> .
+<https://www.wikidata.org/entity/Q164651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Product> .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/alternateName> "La Cazadora"@es .
+<https://www.wikidata.org/entity/Q1065792> <http://purl.org/dc/terms/type> <https://www.wikidata.org/entity/Q941818> .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/name> "Nintendo Research & Development 1"@en .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/name> "Samus Aran"@en .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/datePublished> "1986-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://www.wikidata.org/entity/Q3280923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://www.wikidata.org/entity/Q507269> <https://schema.org/image> <https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bandai_head_office_building_Asakusa_20170519.jpg/960px-Bandai_head_office_building_Asakusa_20170519.jpg> .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q621613> .
+<https://www.wikidata.org/entity/Q17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Country> .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/gender> <https://schema.org/Female> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q205375> .
+<https://www.wikidata.org/entity/Q3280923> <http://purl.org/dc/terms/title> "Makoto Kano"@en .
+<https://www.wikidata.org/entity/Q17> <http://purl.org/dc/terms/title> "Japón"@es .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/employee> <https://www.wikidata.org/entity/Q3136254> .
+<https://www.wikidata.org/entity/Q164651> <http://purl.org/dc/terms/creator> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q12397> <http://purl.org/dc/terms/contributor> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q215034> <https://schema.org/designer> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q186437> <http://purl.org/dc/terms/title> "Game Boy"@en .
+<https://www.wikidata.org/entity/Q215034> <http://purl.org/dc/terms/creator> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q164651> <https://schema.org/manufacturer> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q12400> <http://purl.org/dc/terms/creator> <https://www.wikidata.org/entity/Q3280923> .
+_:n14043ca7e308434399795cae456314b2b1 <https://schema.org/name> "Koto Laboratory"@en .
+<https://www.wikidata.org/entity/Q2633052> <http://purl.org/dc/terms/title> "Nintendo Research & Development 1"@en .
+<https://www.wikidata.org/entity/Q186437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Product> .
+<https://www.wikidata.org/entity/Q3136254> <http://purl.org/dc/terms/identifier> "Q3136254" .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/gender> <https://schema.org/Male> .
+<https://www.wikidata.org/entity/Q215034> <http://purl.org/dc/terms/description> "Serie de juegos electrónicos portátiles de Nintendo diseñada bajo la dirección de Gunpei Yokoi."@es .
+<https://www.wikidata.org/entity/Q621613> <https://schema.org/name> "Cazarrecompensas"@es .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/employee> <https://www.wikidata.org/entity/Q6739919> .
+<https://www.wikidata.org/entity/Q12400> <http://id.loc.gov/vocabulary/relators/cre> <https://www.wikidata.org/entity/Q3280923> .
+<https://www.wikidata.org/entity/Q3136254> <http://purl.org/dc/terms/title> "Hiroji Kiyotake"@en .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/worksFor> <https://www.wikidata.org/entity/Q2633052> .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/worksFor> <https://www.wikidata.org/entity/Q2633052> .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/alternateName> "Samusu Aran"@ja-Latn .
+<https://www.wikidata.org/entity/Q3098670> <http://purl.org/dc/terms/identifier> "Q3098670" .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q12397> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q2310380> .
+<https://www.wikidata.org/entity/Q507269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://www.wikidata.org/entity/Q8093> <http://purl.org/dc/terms/description> "Empresa japonesa de videojuegos y electrónica de consumo."@es .
+<https://www.wikidata.org/entity/Q1065792> <http://purl.org/dc/terms/title> "WonderSwan"@en .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/nationality> <https://www.wikidata.org/entity/Q17> .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/employee> <https://www.wikidata.org/entity/Q3136254> .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/nationality> <https://www.wikidata.org/entity/Q17> .
+<https://www.wikidata.org/entity/Q1065792> <https://schema.org/manufacturer> <https://www.wikidata.org/entity/Q507269> .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/image> <https://upload.wikimedia.org/wikipedia/en/d/d6/Samus_Aran.png> .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/manufacturer> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q621613> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q621613> .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q12400> .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/name> "Metroid"@en .
+<https://www.wikidata.org/entity/Q1065792> <https://schema.org/category> <https://www.wikidata.org/entity/Q941818> .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/alternateName> "清武 博二"@ja .
+_:n14043ca7e308434399795cae456314b2b1 <http://purl.org/dc/terms/description> "Empresa fundada por Gunpei Yokoi tras su salida de Nintendo."@es .
+<https://www.wikidata.org/entity/Q12400> <http://purl.org/dc/terms/identifier> "Q12400" .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/name> "Gunpei Yokoi"@en .
+<https://www.wikidata.org/entity/Q8093> <http://purl.org/dc/terms/title> "Nintendo"@en .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q2633052> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/alternateName> "横井 軍平"@ja .
+<https://www.wikidata.org/entity/Q621613> <http://purl.org/dc/terms/title> "Cazarrecompensas"@es .
+<https://www.wikidata.org/entity/Q3136254> <http://purl.org/dc/terms/description> "Diseñador japonés de videojuegos. Diseñador del personaje Samus Aran."@es .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/alternateName> "坂本 賀勇"@ja .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/alumniOf> <https://www.wikidata.org/entity/Q921088> .
+<https://www.wikidata.org/entity/Q3098670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/employee> <https://www.wikidata.org/entity/Q6739919> .
+<https://www.wikidata.org/entity/Q3098670> <http://purl.org/dc/terms/title> "Yoshio Sakamoto"@en .
+<https://www.wikidata.org/entity/Q215034> <http://purl.org/dc/terms/identifier> "Q215034" .
+<https://www.wikidata.org/entity/Q8093> <http://purl.org/dc/terms/identifier> "Q8093" .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q3136254> .
+<https://www.wikidata.org/entity/Q12400> <http://purl.org/dc/terms/contributor> <https://www.wikidata.org/entity/Q3136254> .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q3280923> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/gender> <https://schema.org/Male> .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/foundingDate> "1889-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/worksFor> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/worksFor> <https://www.wikidata.org/entity/Q2633052> .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/url> <https://www.nintendo.com/> .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/employee> <https://www.wikidata.org/entity/Q529990> .
+_:n14043ca7e308434399795cae456314b2b1 <https://schema.org/founder> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q2633052> <http://purl.org/dc/terms/alternative> "Nintendo R&D1"@en .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q366261> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/award> "Lifetime Achievement Award of the International Game Developers Association"@en .
+<https://www.wikidata.org/entity/Q366261> <http://purl.org/dc/terms/description> "Ingeniero, inventor, diseñador y productor japonés de videojuegos, asociado a Nintendo y Koto Laboratory"@es .
+<https://www.wikidata.org/entity/Q215034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Product> .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/genre> <https://www.wikidata.org/entity/Q343568> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/birthDate> "1941-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://www.wikidata.org/entity/Q941818> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q941818> .
+<https://www.wikidata.org/entity/Q215034> <https://schema.org/category> <https://www.wikidata.org/entity/Q941818> .
+<https://www.wikidata.org/entity/Q1065792> <https://schema.org/brand> <https://www.wikidata.org/entity/Q507269> .
+<https://www.wikidata.org/entity/Q507269> <http://purl.org/dc/terms/description> "Empresa japonesa de juguetes, videojuegos y entretenimiento."@es .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/brand> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/description> "Consola portátil de Nintendo lanzada en 1989."@es .
+<https://www.wikidata.org/entity/Q366261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://www.wikidata.org/entity/Q215034> <https://schema.org/releaseDate> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://www.wikidata.org/entity/Q164651> <https://schema.org/category> "consola de videojuegos"@es .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/releaseDate> "1989-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/nationality> <https://www.wikidata.org/entity/Q17> .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q186437> .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/image> <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Metroid_Logo_2017.svg/1920px-Metroid_Logo_2017.svg.png> .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q18882335> .
+<https://www.wikidata.org/entity/Q1065792> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q1065792> .
+_:n14043ca7e308434399795cae456314b2b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://www.wikidata.org/entity/Q215034> <https://schema.org/manufacturer> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q12397> <http://purl.org/dc/terms/description> "Serie de videojuegos de acción y aventura publicada por Nintendo. Gunpei Yokoi participó como una de las figuras clave de sus primeros desarrollos."@es .
+<https://www.wikidata.org/entity/Q8093> <https://schema.org/employee> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q1065792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Product> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/image> <https://upload.wikimedia.org/wikipedia/en/3/36/Gunpei_Yokoi.jpg> .
+<https://www.wikidata.org/entity/Q12400> <http://id.loc.gov/vocabulary/relators/dsr> <https://www.wikidata.org/entity/Q3136254> .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/employee> <https://www.wikidata.org/entity/Q529990> .
+<https://www.wikidata.org/entity/Q941818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/DefinedTerm> .
+<https://www.wikidata.org/entity/Q507269> <https://schema.org/name> "Bandai"@en .
+<https://www.wikidata.org/entity/Q3280923> <http://purl.org/dc/terms/description> "Diseñador japonés de videojuegos asociado a la creación de Samus Aran."@es .
+_:n14043ca7e308434399795cae456314b2b1 <http://purl.org/dc/terms/title> "Koto Laboratory"@en .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/producer> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q507269> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q507269> .
+<https://www.wikidata.org/entity/Q2633052> <http://purl.org/dc/terms/identifier> "Q2633052" .
+<https://www.wikidata.org/entity/Q507269> <https://schema.org/location> <https://www.wikidata.org/entity/Q17> .
+<https://www.wikidata.org/entity/Q17> <https://schema.org/alternateName> "日本"@ja .
+<https://www.wikidata.org/entity/Q164651> <http://purl.org/dc/terms/publisher> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/worksFor> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/worksFor> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q941818> <https://schema.org/name> "Consola portátil"@es .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/employee> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q164651> <http://purl.org/dc/terms/creator> <https://www.wikidata.org/entity/Q2633052> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/nationality> <https://www.wikidata.org/entity/Q17> .
+<https://www.wikidata.org/entity/Q12397> <http://purl.org/dc/terms/title> "Metroid"@en .
+<https://www.wikidata.org/entity/Q941818> <https://schema.org/name> "Handheld game console"@en .
+<https://www.wikidata.org/entity/Q17> <https://schema.org/name> "Japan"@en .
+<https://www.wikidata.org/entity/Q366261> <http://purl.org/dc/terms/title> "Gunpei Yokoi"@en .
+<https://www.wikidata.org/entity/Q164651> <https://schema.org/brand> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q12400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://www.wikidata.org/entity/Q215034> <https://schema.org/name> "Game & Watch"@en .
+<https://www.wikidata.org/entity/Q215034> <https://schema.org/sameAs> <https://www.wikidata.org/wiki/Q215034> .
+<https://www.wikidata.org/entity/Q12400> <http://purl.org/dc/terms/title> "Samus Aran"@es .
+<https://www.wikidata.org/entity/Q3136254> <https://schema.org/name> "Hiroji Kiyotake"@en .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/parentOrganization> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q3280923> <http://purl.org/dc/terms/identifier> "Q3280923" .
+<https://www.wikidata.org/entity/Q12400> <https://schema.org/alternateName> "サムス・アラン"@ja .
+<https://www.wikidata.org/entity/Q1065792> <http://purl.org/dc/terms/identifier> "Q1065792" .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/gender> <https://schema.org/Male> .
+<https://www.wikidata.org/entity/Q8093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://www.wikidata.org/entity/Q164651> <https://schema.org/releaseDate> "1995-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://www.wikidata.org/entity/Q941818> <http://purl.org/dc/terms/title> "Consola portátil"@es .
+<https://www.wikidata.org/entity/Q1065792> <http://purl.org/dc/terms/publisher> <https://www.wikidata.org/entity/Q507269> .
+<https://www.wikidata.org/entity/Q186437> <http://purl.org/dc/terms/publisher> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q215034> <https://schema.org/brand> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q186437> <http://purl.org/dc/terms/identifier> "Q186437" .
+<https://www.wikidata.org/entity/Q12400> <http://purl.org/dc/terms/description> "Personaje ficticio de la serie de videojuegos Metroid, protagonista principal de la saga."@es .
+<https://www.wikidata.org/entity/Q12397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VideoGameSeries> .
+<https://www.wikidata.org/entity/Q12400> <http://purl.org/dc/terms/isPartOf> <https://www.wikidata.org/entity/Q12397> .
+_:n14043ca7e308434399795cae456314b2b1 <https://schema.org/foundingDate> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/alternateName> "Nintendō Kaihatsu Daiichi"@ja-Latn .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/gender> <https://schema.org/Male> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/alternateName> "Gumpei Yokoi"@en .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/jobTitle> <https://www.wikidata.org/entity/Q18882335> .
+<https://www.wikidata.org/entity/Q3098670> <https://schema.org/name> "Yoshio Sakamoto"@en .
+<https://www.wikidata.org/entity/Q186437> <http://purl.org/dc/terms/type> <https://www.wikidata.org/entity/Q941818> .
+<https://www.wikidata.org/entity/Q1065792> <https://schema.org/releaseDate> "1999-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://www.wikidata.org/entity/Q366261> <https://schema.org/worksFor> <https://www.wikidata.org/entity/Q8093> .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/character> <https://www.wikidata.org/entity/Q12400> .
+<https://www.wikidata.org/entity/Q17> <https://schema.org/name> "Japón"@es .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/name> "Game Boy"@en .
+<https://www.wikidata.org/entity/Q186437> <https://schema.org/alternateName> "Nintendo Game Boy"@en .
+<https://www.wikidata.org/entity/Q2633052> <http://purl.org/dc/terms/description> "Fue el primer y más antiguo equipo de desarrollo de Nintendo, creado cuando la empresa se introdujo en el mundo del videojuego a mediados de los años 70. Su director hasta su marcha fue Gunpei Yokoi."@es .
+<https://www.wikidata.org/entity/Q621613> <https://schema.org/name> "Bounty hunter"@en .
+<https://www.wikidata.org/entity/Q164651> <https://schema.org/designer> <https://www.wikidata.org/entity/Q366261> .
+<https://www.wikidata.org/entity/Q2633052> <https://schema.org/alternateName> "Nintendo R&D1"@en .
+<https://www.wikidata.org/entity/Q3280923> <https://schema.org/alternateName> "Makoto Kanoh"@en .
+<https://www.wikidata.org/entity/Q12397> <https://schema.org/genre> <https://www.wikidata.org/entity/Q19643088> .
+<https://www.wikidata.org/entity/Q164651> <http://purl.org/dc/terms/title> "Virtual Boy"@en .
